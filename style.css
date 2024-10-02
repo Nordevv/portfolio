@@ -542,9 +542,13 @@ nav .logo-nav{
     width: fit-content;
     padding: 5px 20px;
     border-radius: 10px;
-    /* background-color: #FFD23F; */
     font-weight: 600;
     color: #16423C;
+    border: 1px solid black;
+}
+.project a:hover{
+    background-color: #FFD23F;
+    color: black;
     border: 1px solid black;
 }
 .project:hover{
